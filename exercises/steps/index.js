@@ -17,6 +17,35 @@
 //       '### '
 //       '####'
 
-function steps(n) {}
+function line(number, n) {
+    let line = '';
+    for (let i = 1; i <= n; i++){
+        if (i <= number){
+            line += '#'
+        }
+        else {
+            line += ' '
+        }
+    }
+    return line;
+}
 
+function steps01(n) {
+    for (let i = 1; i <= n; i++){
+        console.log(line(i, n));
+    }
+}
+
+//recursive steps function
+function steps(n, row = 0, stair = ''){
+    if (n === row){
+        return;
+    }
+    if (stair.length === n){
+        console.log(stair);
+        return steps(n, row + 1);
+    }
+    let add = stair.length <= row ? '#' : ' ';
+    steps(n, row, stair + add);
+}
 module.exports = steps;
