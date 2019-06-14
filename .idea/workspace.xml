@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="580977a7-125e-408e-bff9-b73274ae07d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/exercises/fib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/fib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/queue/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/queue/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/fib/index.js">
+        <entry file="file://$PROJECT_DIR$/exercises/queue/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            <state relative-caret-position="358">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -49,6 +49,7 @@
         <option value="$PROJECT_DIR$/exercises/vowels/index.js" />
         <option value="$PROJECT_DIR$/exercises/matrix/index.js" />
         <option value="$PROJECT_DIR$/exercises/fib/index.js" />
+        <option value="$PROJECT_DIR$/exercises/queue/index.js" />
       </list>
     </option>
   </component>
@@ -85,7 +86,7 @@
               <item name="AlgoCasts-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgoCasts-master" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="fib" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgoCasts-master" type="b2602c69:ProjectViewProjectNode" />
@@ -135,12 +136,12 @@
       <workItem from="1560430230789" duration="64000" />
       <workItem from="1560437718560" duration="3071000" />
       <workItem from="1560443129505" duration="614000" />
-      <workItem from="1560503731193" duration="1440000" />
+      <workItem from="1560503731193" duration="1769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12634000" />
+    <option name="totallyTimeSpent" value="12963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -301,8 +302,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercises/fib/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        <state relative-caret-position="46">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/queue/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
