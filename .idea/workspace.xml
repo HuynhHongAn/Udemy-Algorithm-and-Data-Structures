@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="580977a7-125e-408e-bff9-b73274ae07d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/exercises/circular/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/circular/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/fromlast/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/fromlast/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/circular/index.js">
+        <entry file="file://$PROJECT_DIR$/exercises/fromlast/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            <state relative-caret-position="303">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -64,6 +65,7 @@
         <option value="$PROJECT_DIR$/exercises/linkedlist/index.js" />
         <option value="$PROJECT_DIR$/exercises/midpoint/index.js" />
         <option value="$PROJECT_DIR$/exercises/circular/index.js" />
+        <option value="$PROJECT_DIR$/exercises/fromlast/index.js" />
       </list>
     </option>
   </component>
@@ -101,7 +103,7 @@
               <item name="AlgoCasts-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgoCasts-master" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="circular" type="462c0819:PsiDirectoryNode" />
+              <item name="fromlast" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,12 +150,12 @@
       <workItem from="1560521368812" duration="311000" />
       <workItem from="1560524630727" duration="3123000" />
       <workItem from="1560573838111" duration="5958000" />
-      <workItem from="1560684583086" duration="1193000" />
+      <workItem from="1560684583086" duration="1825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23803000" />
+    <option name="totallyTimeSpent" value="24435000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,8 +442,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercises/circular/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="277">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/fromlast/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
