@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="580977a7-125e-408e-bff9-b73274ae07d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/tree/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/tree/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/tree/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/tree/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/levelwidth/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/levelwidth/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/tree/index.js">
+        <entry file="file://$PROJECT_DIR$/exercises/levelwidth/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+            <state relative-caret-position="355">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -30,11 +28,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/tree/test.js">
+        <entry file="file://$PROJECT_DIR$/exercises/levelwidth/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-            </state>
+            <state relative-caret-position="-61" />
           </provider>
         </entry>
       </file>
@@ -78,6 +74,7 @@
         <option value="$PROJECT_DIR$/exercises/fromlast/index.js" />
         <option value="$PROJECT_DIR$/exercises/tree/test.js" />
         <option value="$PROJECT_DIR$/exercises/tree/index.js" />
+        <option value="$PROJECT_DIR$/exercises/levelwidth/index.js" />
       </list>
     </option>
   </component>
@@ -114,7 +111,7 @@
               <item name="AlgoCasts-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgoCasts-master" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="levelwidth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,12 +161,12 @@
       <workItem from="1560573838111" duration="5958000" />
       <workItem from="1560684583086" duration="1961000" />
       <workItem from="1560751119079" duration="1168000" />
-      <workItem from="1560762323089" duration="823000" />
+      <workItem from="1560762323089" duration="2145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26562000" />
+    <option name="totallyTimeSpent" value="27884000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -474,9 +471,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/tree/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/tree/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="48">
           <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -484,10 +488,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/tree/test.js">
+    <entry file="file://$PROJECT_DIR$/exercises/levelwidth/node.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/levelwidth/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/levelwidth/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
