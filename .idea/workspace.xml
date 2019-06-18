@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="580977a7-125e-408e-bff9-b73274ae07d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/exercises/validate/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/validate/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/events/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/events/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/validate/index.js">
+        <entry file="file://$PROJECT_DIR$/exercises/events/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+            <state relative-caret-position="301">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -70,6 +70,7 @@
         <option value="$PROJECT_DIR$/exercises/levelwidth/index.js" />
         <option value="$PROJECT_DIR$/exercises/bst/index.js" />
         <option value="$PROJECT_DIR$/exercises/validate/index.js" />
+        <option value="$PROJECT_DIR$/exercises/events/index.js" />
       </list>
     </option>
   </component>
@@ -113,7 +114,13 @@
               <item name="AlgoCasts-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgoCasts-master" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="validate" type="462c0819:PsiDirectoryNode" />
+              <item name="events" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgoCasts-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoCasts-master" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="matrix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,12 +170,12 @@
       <workItem from="1560684583086" duration="1961000" />
       <workItem from="1560751119079" duration="1168000" />
       <workItem from="1560762323089" duration="2339000" />
-      <workItem from="1560848253479" duration="3349000" />
+      <workItem from="1560848253479" duration="3997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31427000" />
+    <option name="totallyTimeSpent" value="32075000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -183,7 +190,7 @@
     <frame x="0" y="23" width="1440" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20225511" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20225511" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -192,7 +199,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="6" visible="true" weight="0.23232323" />
+      <window_info anchor="bottom" id="Terminal" order="6" visible="true" weight="0.23232323" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32756132" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32900432" />
@@ -318,16 +325,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/matrix/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -529,8 +526,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercises/validate/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        <state relative-caret-position="73">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/events/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/maxchar/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/matrix/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/events/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
