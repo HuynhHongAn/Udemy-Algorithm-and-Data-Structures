@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="580977a7-125e-408e-bff9-b73274ae07d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/bst/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/bst/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/validate/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/validate/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,22 +16,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/bst/index.js">
+        <entry file="file://$PROJECT_DIR$/exercises/validate/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+            <state relative-caret-position="299">
+              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/bst/test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-254">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -79,6 +69,7 @@
         <option value="$PROJECT_DIR$/exercises/tree/index.js" />
         <option value="$PROJECT_DIR$/exercises/levelwidth/index.js" />
         <option value="$PROJECT_DIR$/exercises/bst/index.js" />
+        <option value="$PROJECT_DIR$/exercises/validate/index.js" />
       </list>
     </option>
   </component>
@@ -117,6 +108,12 @@
               <item name="AlgoCasts-master" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
               <item name="bst" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgoCasts-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoCasts-master" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="validate" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,12 +163,12 @@
       <workItem from="1560684583086" duration="1961000" />
       <workItem from="1560751119079" duration="1168000" />
       <workItem from="1560762323089" duration="2339000" />
-      <workItem from="1560848253479" duration="1617000" />
+      <workItem from="1560848253479" duration="3349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29695000" />
+    <option name="totallyTimeSpent" value="31427000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,6 +510,16 @@
     <entry file="file://$PROJECT_DIR$/exercises/levelwidth/test.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/bst/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/bst/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-254">
@@ -520,10 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/bst/index.js">
+    <entry file="file://$PROJECT_DIR$/exercises/validate/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        <state relative-caret-position="299">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
